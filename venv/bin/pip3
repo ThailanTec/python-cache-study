@@ -1,4 +1,6 @@
-#!/Users/C12282Q/Library/CloudStorage/OneDrive-EXPERIANSERVICESCORP/Desktop/study/python-cache-study/venv/bin/python3.12
+#!/bin/sh
+'''exec' "/home/thailandev/Área de Trabalho/python-estudos/redis_python/venv/bin/python" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
